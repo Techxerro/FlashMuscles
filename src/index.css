@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Brastika";
+    src: url("../fonts/Brastika-Black.ttf");
+}
+
+@font-face {
+    font-family: "Lausanne";
+    src: url("../fonts/Lausanne-Regular.otf");
+}

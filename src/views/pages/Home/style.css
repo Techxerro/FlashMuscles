@@ -1,0 +1,32 @@
+.herosection .heroimg {
+    height: 95%;
+    top: 36%;
+    left: 28%;
+    transform: translate(-50%, -50%);
+}
+
+.herosection .heroimg2 {
+    height: 90%;
+    left: 15%;
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .herosection .heroimg {
+        height: 95%;
+        top: 36%;
+        left: 29%;
+        transform: translate(-50%, -50%);
+    }
+
+}
+
+@media (min-width: 640px) and (max-width: 768px) {
+    .herosection .heroimg {
+        height: 100%;
+        top: 50%;
+        left: 54%;
+        transform: translate(-50%, -50%);
+    }
+
+}
